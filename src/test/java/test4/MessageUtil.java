@@ -19,7 +19,7 @@ public class MessageUtil {
 
     // prints the message
     public String salutationMessage(){
-        message = "Hi!" + "Robert";
+        message ="Hi!" + message;;
         System.out.println(message);
         return message;
     }

@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TestUnit2 {
-    String message = "Hi!";
+    String message = "Robert";
     MessageUtil messageUtil = new MessageUtil(message);
 
     @Test
